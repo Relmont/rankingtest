@@ -6,7 +6,7 @@
  *                                                                             *
  * Written for COMP9021                                                        *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-/////
+/////master
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
